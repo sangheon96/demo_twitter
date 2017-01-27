@@ -10,4 +10,4 @@ Features:
   - Viewing public profiles
   - More Coming Soon
 
-Visit the site: http://79.170.44.203/primssoko11.com/demo_twitter
+Visit the site: http://www.stanlee96.com/demo_twitter
